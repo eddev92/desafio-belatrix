@@ -13,15 +13,6 @@ Framework utilizado en la aplicación, por su buena escalabilidad y su patrón M
 
 Entorno de trabajo en tiempo de ejecución
 
-# Bower
-
-Automatizador de librerias utilizadas en la aplicacion
-														- Angular
-														- Bootstrap
-														- Jquery
-														- Oclazyload
-
-
 
 # Grunt
 
