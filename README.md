@@ -2,7 +2,7 @@ Desafio Belatrix
 
 1. Instalar NodeJS ( https://nodejs.org/es/download/ )
 2. abrir consola, ubicarse en la raiz de la aplicacion e ingresar los comandos en este orden:
- - npm install
+ - npm install (esperar un momento hasta que termine de instalar las dependencias)
  - grunt ( correr app )
 
 # Angular JS
